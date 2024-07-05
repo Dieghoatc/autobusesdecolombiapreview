@@ -12,7 +12,7 @@ Bienvenidos al sitio oficial de lanzamiento de "Autobuses de Colombia", una plat
 
 Para asegurar una experiencia de usuario óptima y un desarrollo eficiente, hemos implementado una combinación de tecnologías modernas:
 
-<div style="background-color: #f0f0f0; padding: 10px; border-radius: 8px; display: inline-block;">
+<div style="background-color: #f0f0f0; padding: 10px;">
   <table>
     <tr>
       <th style="padding: 10px;">Astro JavaScript</th>
