@@ -1,54 +1,47 @@
-# Astro Starter Kit: Basics
+# Lanzamiento de "Autobuses de Colombia"
 
-```sh
-npm create astro@latest -- --template basics
-```
+Bienvenidos al sitio oficial de lanzamiento de "Autobuses de Colombia", una plataforma innovadora dedicada a brindar la mejor experiencia de viaje en autobús por todo el país. Nuestra página web está diseñada para ofrecer información detallada sobre rutas, horarios, precios, y servicios de las principales empresas de transporte en Colombia.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
+## Características Principales
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+- **Información Completa:** Encuentra toda nuestra galeria de fotografias de los autobuses de Colombia.
+- **Fácil Navegación:** Una interfaz intuitiva y fácil de usar para que encuentres lo que necesitas rápidamente.
+- **Actualizaciones en Tiempo Real:** Mantente al día con las últimas actualizaciones.
 
-![just-the-basics](https://github.com/withastro/astro/assets/2244813/a0a5533c-a856-4198-8470-2d67b1d7c554)
+## Tecnologías Utilizadas
 
-## 🚀 Project Structure
+Para asegurar una experiencia de usuario óptima y un desarrollo eficiente, hemos implementado una combinación de tecnologías modernas:
 
-Inside of your Astro project, you'll see the following folders and files:
+<div style="background-color: #f0f0f0; padding: 10px; border-radius: 8px; display: inline-block;">
+  <table>
+    <tr>
+      <th style="padding: 10px;">Astro JavaScript</th>
+      <th style="padding: 10px;">Tailwind CSS</th>
+      <th style="padding: 10px;">Three.js</th>
+      <th style="padding: 10px;">Node.js</th>
+    </tr>
+    <tr>
+      <td style="text-align: center; padding: 10px;">
+        <img src="https://astro.build/assets/press/full-logo-light.png" alt="Astro" width="90">
+      </td>
+      <td style="text-align: center; padding: 10px;">
+        <img src="https://tailwindcss.com/_next/static/media/tailwindcss-logotype-white.944c5d0ef628083bb316f9b3d643385c86bcdb3d.svg" alt="Tailwind CSS" width="90">
+      </td>
+      <td style="text-align: center; padding: 10px;">
+        <img src="https://cdn.worldvectorlogo.com/logos/threejs-1.svg" alt="Three.js" width="90">
+      </td>
+      <td style="text-align: center; padding: 10px;">
+        <img src="https://nodejs.org/static/logos/nodejsDark.svg" alt="Node.js" width="90">
+      </td>
+    </tr>
+  </table>
+</div>
 
-```text
-/
-├── public/
-│   └── favicon.svg
-├── src/
-│   ├── components/
-│   │   └── Card.astro
-│   ├── layouts/
-│   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+## Próximamente
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+¡No te pierdas el lanzamiento oficial de "Autobuses de Colombia"! Estaremos revelando todas las características y funcionalidades que hemos desarrollado para mejorar tu experiencia. ¡Mantente atento a nuestras actualizaciones!
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+---
 
-Any static assets, like images, can be placed in the `public/` directory.
+Gracias por visitarnos. Para más información, sigue nuestras redes sociales y suscríbete a nuestro boletín de noticias.
 
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
