@@ -2,6 +2,10 @@
 
 Bienvenidos al sitio oficial de lanzamiento de "Autobuses de Colombia", una plataforma innovadora dedicada a brindar la mejor experiencia de viaje en autobús por todo el país. Nuestra página web está diseñada para ofrecer información detallada sobre rutas, horarios, precios, y servicios de las principales empresas de transporte en Colombia.
 
+## Vista Previa
+
+![Vista Previa de Autobuses de Colombia](./public/autobuses_de_colombia.png)
+
 ## Características Principales
 
 - **Información Completa:** Encuentra toda nuestra galeria de fotografias de los autobuses de Colombia.
@@ -44,4 +48,3 @@ Para asegurar una experiencia de usuario óptima y un desarrollo eficiente, hemo
 ---
 
 Gracias por visitarnos. Para más información, sigue nuestras redes sociales y suscríbete a nuestro boletín de noticias.
-
